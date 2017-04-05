@@ -1,0 +1,9 @@
+c:\users\desarrollo\documents\visual studio 2015\Projects\Desocultator\Desocultator\bin\Debug\Desocultator.exe.config
+c:\users\desarrollo\documents\visual studio 2015\Projects\Desocultator\Desocultator\bin\Debug\Desocultator.exe
+c:\users\desarrollo\documents\visual studio 2015\Projects\Desocultator\Desocultator\bin\Debug\Desocultator.pdb
+c:\users\desarrollo\documents\visual studio 2015\Projects\Desocultator\Desocultator\obj\Debug\Desocultator.csprojResolveAssemblyReference.cache
+c:\users\desarrollo\documents\visual studio 2015\Projects\Desocultator\Desocultator\obj\Debug\Desocultator.Principal.resources
+c:\users\desarrollo\documents\visual studio 2015\Projects\Desocultator\Desocultator\obj\Debug\Desocultator.Properties.Resources.resources
+c:\users\desarrollo\documents\visual studio 2015\Projects\Desocultator\Desocultator\obj\Debug\Desocultator.csproj.GenerateResource.Cache
+c:\users\desarrollo\documents\visual studio 2015\Projects\Desocultator\Desocultator\obj\Debug\Desocultator.exe
+c:\users\desarrollo\documents\visual studio 2015\Projects\Desocultator\Desocultator\obj\Debug\Desocultator.pdb
